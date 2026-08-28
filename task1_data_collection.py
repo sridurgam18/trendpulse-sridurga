@@ -188,3 +188,4 @@ print(
     f"Collected {len(collected_stories)} stories. "
     f"Saved to {filename}"
 )
+
